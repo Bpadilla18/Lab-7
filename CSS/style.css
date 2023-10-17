@@ -1,2 +1,3 @@
-nav#main-navbar ul }
-  list-style-type    
+nav#main-navbar {
+  list-style-type: square;
+}  
